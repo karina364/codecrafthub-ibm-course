@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Python Basics",
+    "description": "Learn variables, loops, and functions",
+    "target_date": "2026-06-15",
+    "status": "Not Started",
+    "created_at": "2026-05-30T19:29:47.997540Z"
+  }
+]
